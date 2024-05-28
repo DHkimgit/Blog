@@ -7,7 +7,7 @@ module.exports = {
     github: "https://github.com/DHkimgit"
   },
   utterances: {
-    repo: "DHkimgit/gatsby-starter-hoodie",
+    repo: "DHkimgit/Blog",
     type: "pathname",
   },
 }
